@@ -31,3 +31,5 @@ aplikasi ini buat menggunakan stack sebagai berikut:
 - [React](https://react.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [mantine UI](https://mantine.dev/)
+- HTML
+- CSS
