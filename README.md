@@ -2,6 +2,8 @@
 
 Aplikasi ini dibuat menggunakan [React](https://react.dev/) dan [typescript](https://www.typescriptlang.org/).
 
+Aplikasi ini dibuat agar dosen dapat mendigitalisasi penilaian mahasiswa dan bisa melihat hasil dari penilaian dalam bentuk JSON.
+
 ## Untuk melakukan cloning projek ini
 
 anda bisa menggunakan command berikut:
