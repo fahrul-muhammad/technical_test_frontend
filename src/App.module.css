@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  padding-left: 10rem;
+  padding-right: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.table {
+  width: 50%;
+  margin: auto;
+}
+
+.tableText {
+  text-align: left;
+}
+
+.tableTextName {
+  text-align: left;
+  width: 7vw;
+}
+
+.userIcon {
+  margin-right: 1rem;
+}
